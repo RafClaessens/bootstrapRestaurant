@@ -5,7 +5,7 @@ body{
 }
 
 .jumbo{
-    background-image: url(images/dronepizza.jpeg);
+    background-image: url(./images/dronepizza.jpeg);
     display: block;
     height: 300px;
     background-repeat: no-repeat;
@@ -71,19 +71,19 @@ font-weight: bold;
 
 }
 .ca1{
-    background-image: url(images/turkse-pizza-met-gegrilde-groenten-en-tomaten-bruine-bonenspread.jpg);
+    background-image: url(./images/turkse-pizza-met-gegrilde-groenten-en-tomaten-bruine-bonenspread.jpg);
     display: block;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .ca2{
-    background-image: url(images/Untitled.png);
+    background-image: url(./images/Untitled.png);
     display: block;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .ca3{
-    background-image: url(images/6c2d6de7-929b-42b6-9c96-2375f6078cdd.jpg);
+    background-image: url(./images/6c2d6de7-929b-42b6-9c96-2375f6078cdd.jpg);
     display: block;
     background-repeat: no-repeat;
     background-position: cener bbo; 
